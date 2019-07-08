@@ -1,1 +1,3 @@
 # Tolar-Testnet
+
+Binary releases
